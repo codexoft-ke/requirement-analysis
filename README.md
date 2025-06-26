@@ -38,3 +38,14 @@ These define how the system should perform.
 - The system should respond to user requests within 2 seconds.
 - The booking system must be available 24/7.
 - Data must be encrypted during transmission.
+
+## Acceptance Criteria
+
+Acceptance Criteria define the conditions under which a feature is considered complete and acceptable to stakeholders. It provides a clear scope and sets the standard for functionality and usability.
+
+### Example: Checkout Feature
+
+- User must be logged in.
+- Booking details must be validated before payment.
+- The system must generate a receipt after payment.
+- Confirmation email should be sent upon successful checkout.
