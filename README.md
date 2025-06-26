@@ -22,3 +22,19 @@ It is a critical phase in the Software Development Life Cycle (SDLC) that involv
 - **Requirement Documentation:** Recording requirements in a structured, readable format.
 - **Requirement Analysis and Modeling:** Organizing, prioritizing, and modeling requirements for clarity.
 - **Requirement Validation:** Ensuring requirements align with business goals and are feasible.
+
+## Types of Requirements
+
+### Functional Requirements
+These define what the system should do.
+**Examples:**
+- Users can create bookings for rooms.
+- Admins can cancel or update bookings.
+- System sends email confirmation upon successful booking.
+
+### Non-functional Requirements
+These define how the system should perform.
+**Examples:**
+- The system should respond to user requests within 2 seconds.
+- The booking system must be available 24/7.
+- Data must be encrypted during transmission.
