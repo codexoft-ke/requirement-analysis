@@ -14,3 +14,11 @@ It is a critical phase in the Software Development Life Cycle (SDLC) that involv
 1. **Clear Understanding:** It ensures stakeholders and developers have a common understanding of the system goals.
 2. **Prevents Scope Creep:** Proper analysis minimizes unexpected changes and uncontrolled growth in project scope.
 3. **Improves Quality:** Clearly defined requirements lead to well-structured design and robust systems.
+
+## Key Activities in Requirement Analysis
+
+- **Requirement Gathering:** Collecting input from stakeholders through interviews, surveys, etc.
+- **Requirement Elicitation:** Drawing out and refining requirements by understanding user needs.
+- **Requirement Documentation:** Recording requirements in a structured, readable format.
+- **Requirement Analysis and Modeling:** Organizing, prioritizing, and modeling requirements for clarity.
+- **Requirement Validation:** Ensuring requirements align with business goals and are feasible.
