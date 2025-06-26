@@ -39,6 +39,12 @@ These define how the system should perform.
 - The booking system must be available 24/7.
 - Data must be encrypted during transmission.
 
+## Use Case Diagrams
+
+Use Case Diagrams help visualize how different actors interact with the system. They illustrate the functionalities from the user's perspective and are useful for communication between stakeholders and developers.
+
+![Use Case Diagram](alx-booking-uc.png)
+
 ## Acceptance Criteria
 
 Acceptance Criteria define the conditions under which a feature is considered complete and acceptable to stakeholders. It provides a clear scope and sets the standard for functionality and usability.
